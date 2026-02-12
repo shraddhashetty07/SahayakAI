@@ -82,7 +82,7 @@ A working prototype that demonstrates the core concept of automated scheme disco
 
 ### 3.2 Backend (Eligibility Engine)
 
-**Technology**: Python + Flask (or Node.js + Express)
+**Technology**: Node.js + Express
 
 **Core Functions**:
 
@@ -448,4 +448,5 @@ If Hindi translation is missing:
 **Last Updated**: February 2026  
 **Team Size**: 2 members  
 **Project Status**: Idea Submission Phase
+
 
