@@ -84,9 +84,7 @@ Build a simple AI assistant that:
 - Simple form-based UI
 
 ### Backend (Choose One)
-- **Option 1**: Python + Flask (easiest for beginners)
 - **Option 2**: Node.js + Express
-- **Option 3**: No backend - pure frontend with hardcoded data in JSON
 
 ### Data Storage
 - **JSON file** with 5-10 schemes (no database needed)
@@ -161,5 +159,6 @@ Build a simple AI assistant that:
 **Last Updated**: February 2026  
 **Team Size**: 2 members  
 **Project Phase**: Idea Submission Round
+
 
 
